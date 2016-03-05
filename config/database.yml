@@ -56,6 +56,6 @@ production:
   encoding: unicode
   database: cranow_production
   pool:     5
+  template: template0  
   username: postgres
   password: postgres
-  template: template0
