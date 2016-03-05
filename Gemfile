@@ -7,6 +7,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 gem 'activeadmin', '~> 1.0.0.pre2'
+gem 'active_admin_importable'
 
 group :development, :test do
   gem 'byebug'
